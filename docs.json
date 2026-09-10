@@ -81,7 +81,8 @@
       {
         "group": "Widgets & Personalization",
         "pages": [
-          "widgets-personalization/how-rivlo-widgets-work"
+          "widgets-personalization/how-rivlo-widgets-work",
+          "widgets-personalization/themes"
         ]
       },
       {
