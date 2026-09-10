@@ -109,5 +109,11 @@
       "family": "Plus Jakarta Sans"
     }
   },
-  "description": "Official Rivlo Guide. Learn how Rivlo tracks activity, goals, Clubs, Club Wars, Leagues, RIVO, widgets, and settings."
+  "description": "Official Rivlo Guide. Learn how Rivlo tracks activity, goals, Clubs, Club Wars, Leagues, RIVO, widgets, and settings.",
+  "footer": {
+    "socials": {
+      "x": "https://x.com/rivlo_app",
+      "instagram": "https://www.instagram.com/rivlo.app"
+    }
+  }
 }
