@@ -86,6 +86,8 @@
     ]
   },
   "fonts": {
-    "family": "Plus Jakarta Sans"
+    "heading": {
+      "family": "Plus Jakarta Sans"
+    }
   }
 }
