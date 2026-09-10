@@ -36,18 +36,24 @@
           "introduction",
           "getting-started/what-is-rivlo",
           "getting-started/how-rivlo-works",
-          "getting-started/understanding-home-screen"
+          "getting-started/understanding-home-screen",
+          "getting-started/activity-data"
         ]
       },
       {
         "group": "Activity & Goals",
         "pages": [
-          "activity-goals/overview"
+          "activity-goals/overview",
+          "activity-goals/goals-and-streaks",
+          "activity-goals/activity-tracking",
+          "activity-goals/runs",
+          "activity-goals/hikes"
         ]
       },
       {
         "group": "Friends & Competition",
         "pages": [
+          "friends-competition/overview",
           "friends-competition/how-to-add-friends"
         ]
       },
@@ -68,7 +74,8 @@
       {
         "group": "RIVO",
         "pages": [
-          "rivo/what-is-rivo"
+          "rivo/what-is-rivo",
+          "rivo/what-can-i-ask"
         ]
       },
       {
@@ -82,6 +89,18 @@
         "pages": [
           "account-settings/overview"
         ]
+      },
+      {
+        "group": "Troubleshooting",
+        "pages": [
+          "troubleshooting/steps-not-updating"
+        ]
+      },
+      {
+        "group": "Reference",
+        "pages": [
+          "reference/glossary"
+        ]
       }
     ]
   },
@@ -89,5 +108,6 @@
     "heading": {
       "family": "Plus Jakarta Sans"
     }
-  }
+  },
+  "description": "Official Rivlo Guide. Learn how Rivlo tracks activity, goals, Clubs, Club Wars, Leagues, RIVO, widgets, and settings."
 }
