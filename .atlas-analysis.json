@@ -1,33 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "Rivlo Docs",
+  "projectType": "saas",
+  "projectName": "Rivlo",
+  "projectDescription": "Rivlo is a social fitness app for walks, runs, and hikes that turns everyday movement into progress through leagues, clubs, Club Wars, widgets, and RIVO — an AI-powered activity coach.",
   "theme": "almond",
-  "logo": {
-    "light": "https://media.brand.dev/3072c137-6834-4a4b-beeb-9f2b4a4d1736.svg",
-    "dark": "https://media.brand.dev/3072c137-6834-4a4b-beeb-9f2b4a4d1736.svg"
-  },
-  "favicon": "https://media.brand.dev/d9c2d97f-a41f-4625-84f0-d9eb5eb3c65c.webp",
-  "colors": {
-    "primary": "#0b83dd",
-    "light": "#249df0",
-    "dark": "#0b83dd"
-  },
-  "appearance": {
-    "default": "dark"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Website",
-        "href": "https://rivlo.3bytes.org"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Download",
-      "href": "https://apps.apple.com/us/app/rivlo-steps-runs-hikes/id6756506796"
-    }
-  },
+  "primaryColor": "#0b83dd",
+  "lightColor": "#249df0",
+  "darkColor": null,
   "navigation": {
     "groups": [
       {
@@ -85,7 +63,21 @@
       }
     ]
   },
-  "footer": {
-    "socials": {}
-  }
+  "keyFeatures": [
+    "Step, run, and hike tracking with daily goals and streaks",
+    "Social friends and activity comparison",
+    "Clubs — create or join teams of up to 50 members",
+    "Club Wars — live head-to-head competitive step battles between clubs",
+    "War Tickets — entry currency for Club Wars",
+    "Leagues — six-tier progression from Rookie to Immortal",
+    "Global leaderboards and Arcs (seasonal competitions)",
+    "RIVO — AI-powered activity coach (Rivlo Intelligence Virtual Object)",
+    "Home Screen Widgets for steps, league status, and activity",
+    "Customizable themes (Rivlo Blue, Dark, Monochrome, Gold, Sunfire)",
+    "Rivlo Pro — advanced insights, ad-free, exclusive themes and badge",
+    "Apple Watch support",
+    "Run and hike tracking with GPS, pace, elevation, and route mapping",
+    "Virtual Hikes via Rivlo Adventures"
+  ],
+  "publicApiSurface": []
 }
