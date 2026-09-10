@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Rivlo Docs",
+  "name": "Rivlo Guide",
   "theme": "almond",
   "logo": {
     "light": "https://media.brand.dev/3072c137-6834-4a4b-beeb-9f2b4a4d1736.svg",
@@ -85,7 +85,7 @@
       }
     ]
   },
-  "footer": {
-    "socials": {}
+  "fonts": {
+    "family": "Merriweather"
   }
 }
